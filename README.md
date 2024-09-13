@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samadhan266
+- 👋 Hi, I’m Samadhan Barahate
 - 👀 I’m interested in Cloud Technology
 - 🌱 I’m currently learning  B.Tech in Cloud Technology and Information Security
 - 💞️ I’m looking to collaborate on Cloud Technology Projects
